@@ -2,16 +2,15 @@ body {
   background-color: #e2edff;
 }
 .jumbotron {
-  background-color: #e2edff;
+  background-image: url(antoine-rault-IhWRrZx4-kk-unsplash.jpg);
+  background-color: transparent;
 }
 #projects {
   background-color: #e2edff;
+  background-image: url(antoine-rault-IhWRrZx4-kk-unsplash.jpg);
 }
 a {
   text-decoration: none;
-}
-section {
-  padding-top: 5rem;
 }
 #contact {
   background-color: white;
@@ -21,4 +20,11 @@ section {
 }
 footer {
   background-color: white;
+}
+#projectstext {
+  padding-top: 5rem;
+}
+
+#abouttext {
+  padding-top: 5rem;
 }
