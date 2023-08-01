@@ -21,10 +21,6 @@ a {
 footer {
   background-color: white;
 }
-#projectstext {
-  padding-top: 5rem;
-}
-
-#abouttext {
+.pad {
   padding-top: 5rem;
 }
