@@ -1,0 +1,24 @@
+body {
+  background-color: #e2edff;
+}
+.jumbotron {
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+a {
+  text-decoration: none;
+}
+section {
+  padding-top: 5rem;
+}
+#contact {
+  background-color: white;
+}
+#about {
+  background-color: white;
+}
+footer {
+  background-color: white;
+}
